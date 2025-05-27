@@ -61,3 +61,7 @@ To evaluate the feasibility and attractiveness of each market based on both quan
 Coco Ho Zee Yee
 Business and Data Analytics Undergraduate, Singapore Management University  
 LinkedIn: www.linkedin.com/in/coco-ho-b41ba024b
+
+## Dashboard Preview
+
+[Click here to view the dashboard screenshot (PDF)](dashboard%20screenshot.pdf)
