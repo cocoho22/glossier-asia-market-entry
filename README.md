@@ -59,7 +59,9 @@ To evaluate the feasibility and attractiveness of each market based on both quan
 ## Author
 
 Coco Ho Zee Yee
-Business and Data Analytics Undergraduate, Singapore Management University  
+Bachelor of Science (Economics), Singapore Management University  
+Second Major: Data Science & Analytics  
+Quantitative Economics Track  
 LinkedIn: www.linkedin.com/in/coco-ho-b41ba024b
 
 ## Dashboard Preview
