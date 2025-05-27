@@ -101,6 +101,14 @@ To evaluate the feasibility and attractiveness of each market based on both quan
 - Public market research
 - Strategic analysis methods inspired by consulting-style frameworks
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview_rotated.png)
+
+## Slide Deck Overview
+
+[Download Slide Deck (PDF)](Glossier_Asia_Market_Deck.pdf)
+
 ## Author
 
 Coco Ho Zee Yee
@@ -108,8 +116,3 @@ Bachelor of Science (Economics), Singapore Management University
 Second Major: Data Science & Analytics  
 Quantitative Economics Track  
 LinkedIn: www.linkedin.com/in/coco-ho-b41ba024b
-
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview_rotated.png)
-
