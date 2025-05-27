@@ -64,4 +64,5 @@ LinkedIn: www.linkedin.com/in/coco-ho-b41ba024b
 
 ## Dashboard Preview
 
-[Click here to view the dashboard screenshot (PDF)](dashboard%20screenshot.pdf)
+![Dashboard Preview](dashboard_preview_rotated.png)
+
